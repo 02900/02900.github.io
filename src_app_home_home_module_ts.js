@@ -155,7 +155,7 @@ const videogames = [
     },
     {
         cover: '/assets/vg/tps',
-        title: 'TPS Protopyte',
+        title: 'TPS Prototype',
         stack: 'Unity',
         description: 'A template to third person shooter with include player controller, enemies, policies, vehicles and wanted system and more.',
         links: [
@@ -177,6 +177,7 @@ const videogames = [
                 zelda: 'https://www.youtube.com/watch?v=jy9TMtB9WaE',
             },
         ],
+        startDate: 2012,
         endDate: 2013,
     },
 ];
