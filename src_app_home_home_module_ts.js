@@ -15,7 +15,7 @@ const frontend = [
     {
         cover: '/assets/frontend/screenshot-ce',
         title: 'Screenshot Chrome Extension',
-        subtitle: 'Angular 13, RxJS, TypeScript',
+        stack: 'Angular 13, RxJS, TypeScript',
         description: 'Utility to automate the process of take screenshot in multiple resolutions',
         links: [
             {
@@ -28,7 +28,7 @@ const frontend = [
     {
         cover: '/assets/frontend/deck-builder',
         title: 'Yu-Gi-Oh! Deck Builder',
-        subtitle: 'Angular 13, RxJS, TypeScript',
+        stack: 'Angular 13, RxJS, TypeScript',
         description: 'Simple application to show concepts about reactive programming and good practices in Angular',
         links: [
             { name: 'Repository', zelda: 'https://github.com/jotaate/deck-builder' },
@@ -39,7 +39,7 @@ const frontend = [
     {
         cover: '/assets/frontend/kavak',
         title: 'KAVAK',
-        subtitle: 'Typescript, Angular 11, Stencil, RxJs, Storybook',
+        stack: 'Typescript, Angular 11, Stencil, RxJs, Storybook',
         description: 'Platform dedicated to the trade of used cars',
         links: [{ name: 'Navigate to Kavak.com', zelda: 'https://www.kavak.com/' }],
         startDate: 2018,
@@ -64,7 +64,7 @@ const videogames = [
     {
         cover: '/assets/vg/crowd-simulation',
         title: 'Crowd Simulation',
-        subtitle: 'Unity3D',
+        stack: 'Unity',
         description: 'Research about crowd simulation models.',
         links: [
             {
@@ -78,7 +78,7 @@ const videogames = [
     {
         cover: '/assets/vg/ygo',
         title: 'Yugioh Duelist of the Roses',
-        subtitle: 'Unity3D',
+        stack: 'Unity',
         description: 'A remake based on the game Yu-Gi-Oh! Duelist of the Roses',
         links: [
             {
@@ -91,7 +91,7 @@ const videogames = [
     {
         cover: '/assets/vg/caza-a-casa',
         title: 'Caza a Casa',
-        subtitle: 'Unity3D',
+        stack: 'Unity',
         description: 'A 2D game platformer inspired by petroglyphs, figures engraved in stone thousands of years ago.',
         links: [
             {
@@ -104,7 +104,7 @@ const videogames = [
     {
         cover: '/assets/vg/goku-escape-itachi-no-jutsu',
         title: 'Goku escape Itachi no Jutsu',
-        subtitle: 'LÖVE 2D',
+        stack: 'LÖVE 2D',
         description: 'A simple game developed in orden to learn about Lua programming language.',
         links: [
             {
@@ -117,7 +117,7 @@ const videogames = [
     {
         cover: '/assets/vg/ai4vg-3',
         title: 'States Machines',
-        subtitle: 'Unity3D',
+        stack: 'Unity',
         description: 'Implementation of FSM to allow NPC can make decisions according to the game state.',
         links: [
             {
@@ -130,7 +130,7 @@ const videogames = [
     {
         cover: '/assets/vg/ai4vg-2',
         title: 'Navigation Mesh',
-        subtitle: 'Unity3D',
+        stack: 'Unity',
         description: 'Automatic generation of navmesh voxel based from scratch and integration with A* algorithm.',
         links: [
             {
@@ -143,7 +143,7 @@ const videogames = [
     {
         cover: '/assets/vg/ai4vg-1',
         title: 'Steering Behaviors',
-        subtitle: 'Unity3D',
+        stack: 'Unity',
         description: 'Interesting movement algorithms based on steering behavior principles.',
         links: [
             {
@@ -156,7 +156,7 @@ const videogames = [
     {
         cover: '/assets/vg/tps',
         title: 'TPS Protopyte',
-        subtitle: 'Unity3D',
+        stack: 'Unity',
         description: 'A template to third person shooter with include player controller, enemies, policies, vehicles and wanted system and more.',
         links: [
             {
@@ -169,7 +169,7 @@ const videogames = [
     {
         cover: '/assets/vg/first-game-1',
         title: 'TPS Sandbox Prototype',
-        subtitle: 'Unity3D',
+        stack: 'Unity',
         description: 'In my introduction to game development, I made a large-scale prototype of a third person open world game over a period of 1 year.',
         links: [
             {
