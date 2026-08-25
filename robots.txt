@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://02900.github.io/sitemap.xml
